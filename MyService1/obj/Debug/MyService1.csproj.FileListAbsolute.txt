@@ -1,0 +1,11 @@
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\bin\Debug\MyService1.exe.config
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\bin\Debug\MyService1.exe
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\bin\Debug\MyService1.pdb
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.csproj.AssemblyReference.cache
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.csproj.SuggestedBindingRedirects.cache
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.ProjectInstaller.resources
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.csproj.GenerateResource.cache
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.csproj.CoreCompileInputs.cache
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.exe
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\obj\Debug\MyService1.pdb
+E:\C#_demo\ConsoleApp_demo\WindownformInstallerService\MyService1\bin\Debug\config.txt
